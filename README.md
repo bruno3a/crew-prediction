@@ -9,5 +9,3 @@
 6. ML model
 7. Pearson correlation coefficient for the training set and testing data sets
 8. Hyper-parameters evaluation
-9. Regularization
-10.Regularization parameter value vs Pearson correlation graph for the test and training sets. Bias or variance problem?
